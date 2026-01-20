@@ -1,0 +1,39 @@
+## NOTICE: generated via vscode co-pilot using the prompt "create a standard git ignore file for node js apps"
+
+# dependencies
+node_modules/
+npm-debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# build outputs
+dist/
+build/
+
+# ide
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# os
+.DS_Store
+Thumbs.db
+
+# logs
+logs/
+*.log
+
+# optional npm cache
+.npm
+
+# optional package-lock
+package-lock.json
+yarn.lock
