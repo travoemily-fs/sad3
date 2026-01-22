@@ -6,7 +6,7 @@ this repository houses **three branches**, each of which correlates to one of th
 
 `➝ click to be directed to the appropriate branch:`
 
-- [x] [hard coded secret](link)
+- [x] [hard coded secret](https://github.com/travoemily-fs/sad3/tree/hard-coded-secret)
 - [x] [shared secret on repository](link)
 - [x] [non-shared files](link)
 
